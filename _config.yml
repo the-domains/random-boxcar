@@ -1,4 +1,3 @@
-layout_spectrum: 0.93362124892883
 typography_spectrum: 0.09407932730391622
 color:
   brandStrength: 0.34679826186038554
@@ -6,9 +5,11 @@ color:
   saturation: 0.9024688035715371
   rhythmicContrast: 0.6200718674808741
   brandColors:
-    - '#88A825'
-    - '#35203B'
-    - '#911146'
-    - '#CF4A30'
-    - '#ED8C2B'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.93362124892883
 name: random boxcar
+title: Stuff from around
